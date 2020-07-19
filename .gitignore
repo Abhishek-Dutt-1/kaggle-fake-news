@@ -130,7 +130,6 @@ dmypy.json
 
 
 # Exclude downloaded Kaggle dataset
-/data/fake-news.zip
 /data/train.csv
 /data/test.csv
 /data/submit.csv

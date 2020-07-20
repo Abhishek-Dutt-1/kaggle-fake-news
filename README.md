@@ -1,6 +1,6 @@
 # Kaggle Fake News Classification:
 
-**## Solution Notebook:**
+## Solution Notebook:
 GitHub preview: [fake_news_classifier.ipynb](https://github.com/AbhishekDutt/kaggle-fake-news/blob/master/fake_news_classifier.ipynb)
 
 Google Colab: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbhishekDutt/kaggle-fake-news/blob/master/fake_news_classifier.ipynb)

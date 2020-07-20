@@ -51,3 +51,8 @@ Final model had following metrics on validation set:
 |0 | 0.97 | 0.98|
 |1 | 0.98 | 0.97|
 
+**Kaggle Leaderboard score:** 
+
+|Private Score|Public Score|
+|:-----------:|:----------:|
+|      0.77142|     0.77564|
